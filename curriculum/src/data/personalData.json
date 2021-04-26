@@ -1,0 +1,245 @@
+{
+    "profile": {
+        "name": "Gabriel Longarete Mandelli",
+        "photoURL": "https://avatars0.githubusercontent.com/u/13468664?v=3&s=500",
+        "email": "gabrielmandellidev@gmail.com",
+        "linkedinURL": "https://www.linkedin.com/in/gabriellmandelli/",
+        "githubURL": "https://github.com/gabriellmandelli",
+        "about": "Hello! I'm Gabriel, I have a degree in Information Systems at Faculdade Escola Superior de Criciúma - ESUCRI in 2019, I work in the technology area always looking to innovate and acquire knowledge to always grow.",
+        "working": "I currently work as a software engineer at Ifood, on the consumer platform in the engagement team creating apis with monitoring and infrastructure to provide information with high scalability and resilience to the Ifood application since 2020.",
+        "quote": "The best way to predict your future is to create it.",
+        "quoteBy": "Abraham Lincoln"
+    },
+    "educations": [
+        {
+            "name": "Bachelor in Information Systems",
+            "from": "Escola Superior de Criciúma - ESUCRI",
+            "type": "Graduation",
+            "andress": "Críciuma, Santa Catarina, Brazil",
+            "duration": "4 years",
+            "endAt": "November 2019",
+            "details": "In the process of software development, programming, systems analysis, support analysis, database, computer networks, project management, among other areas of technology. Work in the information technology sector in organizations, in software development companies, consultancy, or even have their own technology business."
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming language",
+            "list": [
+                "Golang",
+                "Java",
+                "Kotlin",
+                "TypeScript",
+                "JavaScript",
+                "SQL",
+                "C#",
+                "PHP",
+                "PowerBuilder"
+            ]
+        },
+        {
+            "title": "Framework",
+            "list": [
+                "Angular 2+",
+                "ReactJs",
+                "React Native",
+                "Ionic",
+                "NodeJS",
+                "SpringBoot",
+                "TypeORM",
+                "Flyway",
+                "JWT"
+            ]
+        },
+        {
+            "title": "Deployment",
+            "list": [
+                "Kafka",
+                "Kubernates",
+                "Voult",
+                "Docker"
+            ]
+        },
+        {
+            "title": "Database",
+            "list": [
+                "Redis",
+                "MangoDB",
+                "Postgres",
+                "SQLite",
+                "Firebase",
+                "MySql",
+                "SybaseAnywhere",
+                "Firebird"
+            ]
+        },
+        {
+            "title": "Computer Applications",
+            "list": [
+                "Git/Github/Gitlab",
+                "VS Code",
+                "IntelliJ",
+                "Android Studio",
+                "Microsoft Office",
+                "Insomnia"
+            ]
+        },
+        {
+            "title": "Monitoring and resilience",
+            "list": [
+                "Circuit breaker",
+                "New Rellic",
+                "Grafana",
+                "Logx",
+                "Prometheus"
+            ]
+        },
+        {
+            "title": "Tests",
+            "list": [
+                "Load test",
+                "Unit teste",
+                "BDD"
+            ]
+        },
+        {
+            "title": "Operating Systems",
+            "list": [
+                "Linux",
+                "Windows",
+                "Android"
+            ]
+        },
+        {
+            "title": "Computer Hardware",
+            "list": [
+                "Hardware maintenance",
+                "Raspberry Pi",
+                "Arduino Microcontroller"
+            ]
+        },
+        {
+            "title": "Languages",
+            "list": [
+                "Fluent in Portuguese",
+                "Competent in English"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "company": "Ifood",
+            "position": "Software Engineer",
+            "startAt": "November 2020",
+            "endAt": "Now",
+            "description": "Working on the Engagement team creating apis with monitoring and infrastructure to provide information with high scalability and resilience to the Ifood app"
+        },
+        {
+            "company": "Thomson Reuters",
+            "position": "Software Engineer",
+            "startAt": "April 2017",
+            "endAt": "November 2020",
+            "description": "Working in tax accounting project, improving new feature about SPEDs, fixing bugs, creating utils to improve more performance on development"
+        },
+        {
+            "company": "Disner",
+            "position": "Analist System",
+            "startAt": "April 2015",
+            "endAt": "April 2017",
+            "description": "Creating new feature and fixing issues, applying new ways to perform the workflow to get more performance"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Flex Diet",
+            "description": "Flex Diet is an app just for help people get fit with a flexible diet, counting macro and micronutrients.",
+            "techs": [
+                "Ionic",
+                "Firebase",
+                "Fuzzy Logic",
+                "Inference engine",
+                "Knowledge base"
+            ],
+            "links": [
+                {
+                    "description": "Dieta Flex",
+                    "url": "https://github.com/gabriellmandelli/dieta-flex"
+                }
+            ]
+        },
+        {
+            "title": "Drip tap",
+            "description": "This app is just for help nurse to apply the correct amount of serum for a period time.",
+            "techs": [
+                "Ionic",
+                "TypeScript"
+            ],
+            "links": [
+                {
+                    "description": "Driptap App",
+                    "url": "https://github.com/gabriellmandelli/driptap-app"
+                }
+            ]
+        },
+        {
+            "title": "Event Api",
+            "description": "This api was made to provide information for an event management application.",
+            "techs": [
+                "Nodejs",
+                "JavaScript",
+                "Axios",
+                "Express",
+                "Firebase",
+                "Mongoose",
+                "Nodemon"
+            ],
+            "links": [
+                {
+                    "description": "Event Api",
+                    "url": "https://github.com/gabriellmandelli/event-api"
+                }
+            ]
+        },
+        {
+            "title": "Products showcase",
+            "description": "This project is an products showcase, with backend and frontend",
+            "techs": [
+                "React",
+                "React Hooks",
+                "React Router Dom",
+                "Express",
+                "Mongoose",
+                "Cors"
+            ],
+            "links": [
+                {
+                    "description": "Product sell frontend",
+                    "url": "https://github.com/gabriellmandelli/product-sell-frontend"
+                },
+                {
+                    "description": "Product sell backend",
+                    "url": "https://github.com/gabriellmandelli/product-sell-backend"
+                }
+            ]
+        },
+        {
+            "title": "Pro service api",
+            "description": "System for maintenance control of equipment.",
+            "techs": [
+                "Java 8+",
+                "Spring Boot",
+                "Spring Web",
+                "Spring Data JPA",
+                "Spring Test",
+                "Swagger",
+                "Lombok",
+                "PostgreSql"
+            ],
+            "links": [
+                {
+                    "description": "Pro Service Api",
+                    "url": "https://github.com/gabriellmandelli/pro-service-api"
+                }
+            ]
+        }
+    ]
+}
