@@ -8,7 +8,7 @@ export default function Profile() {
         <div id="profile" className="container-fluid bg-1 text-center">
             <h1 className="margin">{staticData.profile.name}</h1>
             <div className="item1">
-                <img src={staticData.profile.photoURL} className="img-responsive img-circle margin" style={{ display : "inline" }} alt="G" width="350" height="350"/>
+                <img src={staticData.profile.photoURL} className="img-responsive img-circle margin" style={{ display : "inline" }} alt="" width="350" height="350"/>
                 <p><a href={"mailto:"+staticData.profile.email}>{staticData.profile.email}</a></p>
                 <a href={staticData.profile.linkedinURL} target="blank"><i className="fa fa-linkedin"></i></a>
                 <a href={staticData.profile.githubURL} target="blank"><i className="fa fa-github"></i></a>
