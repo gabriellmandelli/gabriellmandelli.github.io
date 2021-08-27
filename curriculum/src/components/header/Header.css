@@ -6,13 +6,13 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
-    position: fixed;
+    /* position: fixed; */
     top: 0;
     width: 100%;
 }
 
 .main {
-    margin-top: 40px; /* Add a top margin to avoid content overlay */
+    margin-top: 0px; /* Add a top margin to avoid content overlay */
 }
 
 .navbar-nav  li a:hover {

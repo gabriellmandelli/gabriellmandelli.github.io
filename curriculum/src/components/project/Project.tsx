@@ -13,7 +13,7 @@ export default function Project() {
                         <div>
                             <div className="col-50">
                             <h1><b>{project.title}</b></h1>
-                            {/* <img src="" style={{width:"90%"}} alt=""/> */}
+                            <img src="" style={{width:"90%"}} alt=""/>
                             </div>
                             <div className="exper">
                                 <h1> About </h1>
