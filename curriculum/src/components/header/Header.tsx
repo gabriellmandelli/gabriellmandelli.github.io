@@ -4,7 +4,7 @@ import './Header.css'
 
 export default function Header() {
     return (
-        <header>
+        <div className="main">
             <nav className="navbar navbar-default" id="">
                 <div className="container">
                     <div className="navbar-header">
@@ -15,7 +15,7 @@ export default function Header() {
                             <span className="icon-bar"></span>
                         </button>
                     </div>
-                    <div className="navbar-brand">{staticData.profile.name}</div>
+                    <div className="navbar-brand"><a href="#profile">{staticData.profile.name}</a></div>
                     <div className="collapse navbar-collapse" id="myNavbar">
                         <ul className="nav navbar-nav navbar-right">
                             <li><a href="#educations">EDUCATION</a></li>
@@ -26,6 +26,6 @@ export default function Header() {
                     </div>
                 </div>
             </nav>
-        </header>
+        </div>
     )
 }

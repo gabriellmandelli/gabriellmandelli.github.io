@@ -1,0 +1,20 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+}
+
+.main {
+    margin-top: 0px; /* Add a top margin to avoid content overlay */
+}
+
+.navbar-nav  li a:hover {
+    color: #081b17 !important;
+}

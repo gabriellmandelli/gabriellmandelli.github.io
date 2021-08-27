@@ -9,7 +9,7 @@ export default function Education() {
                 {staticData.educations.map( education => {
                     return (
                         <div className="container-fluid bg-2 text-center ftco-section">
-                            <h2 className="margin ftco-animate" id="education_section">Education</h2>
+                            <h2 className="margin ftco-animate" id="education_section">EDUCATION</h2>
                             <div><h2><b>{education.name}</b></h2></div>
                             <div><h3>{education.from}</h3></div>
                             <div>Andress: <b>{education.andress}</b></div>
