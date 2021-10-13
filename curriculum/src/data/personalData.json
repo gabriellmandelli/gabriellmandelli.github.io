@@ -5,20 +5,20 @@
         "email": "gabrielmandellidev@gmail.com",
         "linkedinURL": "https://www.linkedin.com/in/gabriellmandelli/",
         "githubURL": "https://github.com/gabriellmandelli",
-        "about": "Hello! I'm Gabriel, I have a degree in Information Systems at Faculdade Escola Superior de Criciúma - ESUCRI in 2019, I work in the technology area always looking to innovate and acquire knowledge to always grow.",
-        "working": "I currently work as a software engineer at Ifood, on the consumer platform in the engagement team creating apis with monitoring and infrastructure to provide information with high scalability and resilience to the Ifood application since 2020.",
+        "about": "Hello! I'm Gabriel. I have always loved technology since I was a child. I grew up fascinated in understanding how things work behind the scenes. I sought to learn and involve myself in project development, seeking to innovate and get knowledge to always grow.",
+        "working": "I currently work as a software engineer at Ifood, on the consumer platform engagement team. I work on the application infrastructure and microservices which monitor data to provide information with high scalability and resilience to the Ifood app.",
         "quote": "The best way to predict your future is to create it.",
         "quoteBy": "Abraham Lincoln"
     },
     "educations": [
         {
-            "name": "Bachelor in Information Systems",
-            "from": "Escola Superior de Criciúma - ESUCRI",
+            "name": "Bachelor of Information Systems",
+            "from": "ESUCRI - Escola Superior de Criciúma",
             "type": "Graduation",
             "andress": "Críciuma, Santa Catarina, Brazil",
             "duration": "4 years",
-            "endAt": "November 2019",
-            "details": "In the process of software development, programming, systems analysis, support analysis, database, computer networks, project management, among other areas of technology. Work in the information technology sector in organizations, in software development companies, consultancy, or even have their own technology business."
+            "endAt": "2016-2019",
+            "details": "Process of software development, programing, systems analytics, database and project management."
         }
     ],
     "skills": [
@@ -39,6 +39,7 @@
         {
             "title": "Framework",
             "list": [
+                "Echo",
                 "Angular 2+",
                 "ReactJs",
                 "React Native",
@@ -62,6 +63,7 @@
         {
             "title": "Database",
             "list": [
+                "Scylladb",
                 "Redis",
                 "MangoDB",
                 "Postgres",
@@ -131,14 +133,14 @@
             "position": "Software Engineer",
             "startAt": "November 2020",
             "endAt": "Now",
-            "description": "Working on the Engagement team creating apis with monitoring and infrastructure to provide information with high scalability and resilience to the Ifood app"
+            "description": "Development of a social media app Ifood, focused on customer engagement sharing pictures, videos, recommendations, reactions, and sharing of food. I work on the application infrastructure and microservices which monitor data to provide information with high scalability and resilience to the Ifood app."
         },
         {
             "company": "Thomson Reuters",
             "position": "Software Engineer",
             "startAt": "April 2017",
             "endAt": "November 2020",
-            "description": "Working in tax accounting project, improving new feature about SPEDs, fixing bugs, creating utils to improve more performance on development"
+            "description": "Working in a tax accounting project, improving new features about SPEDs, maintenance and creating utils to improve more performance to the development process."
         },
         {
             "company": "Disner",
