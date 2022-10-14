@@ -169,6 +169,23 @@
             ]
         },
         {
+            "title": "Family Tree API",
+            "description": "The API must also provide an endpoint that returns the family tree of a certain individual containing all possible ascendants up to that level.",
+            "techs": [
+                "Go",
+                "MongoDB",
+                "Viper",
+                "Errorx",
+                "Docker"
+            ],
+            "links": [
+                {
+                    "description": "Family Tree",
+                    "url": "https://github.com/gabriellmandelli/family-tree"
+                }
+            ]
+        },        
+        {
             "title": "Drip tap",
             "description": "This app is just for help nurse to apply the correct amount of serum for a period time.",
             "techs": [
